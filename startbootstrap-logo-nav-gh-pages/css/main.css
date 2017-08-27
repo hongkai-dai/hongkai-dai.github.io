@@ -1,0 +1,6 @@
+.publication div {
+      display: table-cell;
+      padding: 6px 6px;
+      vertical-align: middle;
+      text-align: justify;
+}
